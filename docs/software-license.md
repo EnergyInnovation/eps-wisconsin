@@ -9,11 +9,11 @@ Note that this license applies to the EPS, not to Vensim.  Vensim is commercial 
 
 ## Image Credits
 
-Fall Color at Dallas Divide near Ridgway, Colorado
+Wisconsin Dells
 
-Thomas Morse
+Dave Hoefler
 
-[https://unsplash.com/photos/cuKKa0vWZSY](https://unsplash.com/photos/cuKKa0vWZSY)
+[https://unsplash.com/photos/yqitWw-0Qmw](https://unsplash.com/photos/yqitWw-0Qmw)
 
 License: Unsplash
 
